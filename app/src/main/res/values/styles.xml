@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Інші стилі можуть бути тут -->
+    <style name="Theme.Flashlight2" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Інші налаштування можуть бути тут -->
+    </style>
+</resources>
